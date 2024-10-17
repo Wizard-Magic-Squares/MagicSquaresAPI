@@ -1,0 +1,6 @@
+@MagicSquaresAPI_HostAddress = http://localhost:5186
+
+GET {{MagicSquaresAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
